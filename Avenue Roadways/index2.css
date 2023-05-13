@@ -1,0 +1,454 @@
+.ar-only-logo-1 {
+  position: absolute;
+  top: 41px;
+  left: 60px;
+  width: 157px;
+  height: 148px;
+  object-fit: cover;
+}
+.contact-us-child {
+  position: absolute;
+  width: 100%;
+  top: 1189px;
+  right: -16px;
+  left: 16px;
+  background-color: var(--vrgear-light-color-divider);
+  height: 4px;
+}
+.lets-talk {
+  position: absolute;
+  top: 278px;
+  left: 103px;
+  font-size: var(--font-size-45xl);
+}
+.email,
+.want-to-talk {
+  position: absolute;
+  left: 104px;
+}
+.want-to-talk {
+  top: 370px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 538px;
+}
+.email {
+  top: 448px;
+  font-size: var(--font-size-13xl);
+}
+.contactusavenueroadwaysgmail {
+  position: absolute;
+  top: 497px;
+  left: 104px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+.name {
+  position: relative;
+  font-weight: 500;
+}
+.frame-child {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 563px;
+  height: 46px;
+}
+.name-parent {
+  position: absolute;
+  top: 278px;
+  left: 740px;
+  width: 563px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+}
+.email-parent,
+.frame-inner,
+.name-parent {
+  display: flex;
+  font-family: var(--font-poppins);
+  justify-content: flex-start;
+}
+.email-parent {
+  position: absolute;
+  top: 388px;
+  left: 740px;
+  width: 563px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-mini);
+}
+.frame-inner {
+  border: 0;
+  font-size: var(--font-size-sm);
+  background-color: var(--color-whitesmoke);
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  padding: var(--padding-2xs) var(--padding-base);
+  align-items: center;
+}
+.city-parent,
+.industry-parent,
+.what-service-are-you-intereste-parent{
+  position: absolute;
+  top: 498px;
+  left: 740px;
+  width: 563px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  font-family: var(--font-poppins);
+}
+.city-parent,
+.industry-parent {
+  top: 608px;
+}
+.city-parent {
+  top: 704px;
+}
+.rectangle-div {
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 563px;
+  height: 165px;
+}
+.message-parent {
+  position: absolute;
+  top: 800px;
+  left: 740px;
+  width:563px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini);
+  font-family: var(--font-poppins);
+}
+.map-to-avenue-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 48px;
+  width: 881px;
+  height: 597px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  height: 10.96%;
+  width: 10.08%;
+  top: 32.35%;
+  right: 61.93%;
+  bottom: 56.68%;
+  left: 27.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.map-to-avenue {
+  position: absolute;
+  top: 665px;
+  left: 112px;
+  border: 2px solid var(--black);
+  box-sizing: border-box;
+  width: 510px;
+  height: 450px;
+  overflow: auto;
+}
+.phone1 {
+  margin: 0;
+}
+.landline,
+.phone {
+  font-size: var(--font-size-13xl);
+}
+.phone {
+  position: absolute;
+  top: 546px;
+  left: 104px;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+.landline {
+  top: 459px;
+  left: 454px;
+}
+.div,
+.div1,
+.landline,
+.where-to-find {
+  position: absolute;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+.where-to-find {
+  top: 629px;
+  left: 111px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+}
+.div,
+.div1 {
+  top: 587px;
+  left: 104px;
+  font-size: var(--font-size-base);
+}
+.div1 {
+  top: 499px;
+  left: 454px;
+}
+.contact-us-item {
+  position: absolute;
+  top: 805.65px;
+  left: 0;
+  width: 1311.43px;
+  height: 795.35px;
+  opacity: 0.15;
+}
+.ar-only-logo-2 {
+  position: absolute;
+  top: 1271px;
+  left: 66px;
+  width: 160px;
+  height: 164px;
+  object-fit: cover;
+}
+.round-place-24px-icon {
+  position: relative;
+  width: 26px;
+  height: 28px;
+}
+.abc-company {
+  position: relative;
+  line-height: 25px;
+  display: inline-block;
+  width: 458px;
+  flex-shrink: 0;
+}
+.office-address {
+  position: absolute;
+  top: 1311px;
+  left: 481px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-400);
+}
+.round-phone-24px-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.b {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+}
+.phone-number,
+.phone-number-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.phone-number-parent {
+  position: absolute;
+  top: 1377px;
+  left: 481px;
+  align-items: flex-start;
+  gap: var(--gap-101xl);
+  font-size: var(--font-size-mini);
+  font-family: var(--font-montserrat);
+}
+.contact-us-inner {
+  position: absolute;
+  top: 857.65px;
+  left: 62.57px;
+  width: 1377.43px;
+  height: 743.35px;
+  opacity: 0.15;
+}
+.icon-facebook,
+.icon-social-linkedin {
+  position: absolute;
+  height: 1.71%;
+  width: 1.91%;
+  top: 81.89%;
+  right: 11.77%;
+  bottom: 16.4%;
+  left: 86.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-social-linkedin {
+  width: 1.9%;
+  top: 81.95%;
+  right: 8.1%;
+  bottom: 16.34%;
+  left: 90%;
+}
+.submit {
+  position: relative;
+  text-transform: uppercase;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.button {
+  position: absolute;
+  top: 1024px;
+  left: 738px;
+  background: linear-gradient(
+    93.08deg,
+    rgba(183, 54, 31, 0.8),
+    rgba(24, 33, 140, 0.8)
+  );
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 565px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  color: var(--vrgear-light-color-background);
+  font-family: var(--font-montserrat);
+}
+.about-us,
+.contact-us1,
+.home,
+.news-room,
+.our-services,
+.our-team {
+  position: absolute;
+  top: 5px;
+  left: -16px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.about-us,
+.contact-us1,
+.news-room,
+.our-services,
+.our-team {
+  left: 106px;
+}
+.contact-us1,
+.news-room,
+.our-services,
+.our-team {
+  left: 279px;
+}
+.contact-us1,
+.news-room,
+.our-services {
+  left: 451px;
+}
+.contact-us1,
+.news-room {
+  left: 665px;
+}
+.contact-us1 {
+  left: 865px;
+  cursor: pointer;
+}
+.group-div,
+.header-wrapper {
+  position: absolute;
+  height: 42px;
+}
+.header-wrapper {
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.group-div {
+  width: calc(100% - 440px);
+  top: 88px;
+  right: 104px;
+  left: 336px;
+  
+  font-size: var(--font-size-8xl);
+  color: var(--blue);
+}
+.copyright-2018,
+.group-child {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.group-child {
+  height: 6.98%;
+  width: 99.45%;
+  top: -2.33%;
+  right: 0.65%;
+  bottom: 95.35%;
+  left: -0.09%;
+  background-color: var(--color-lightskyblue-100);
+  border: 2px solid var(--color-darkgray);
+  box-sizing: border-box;
+  opacity: 0.2;
+}
+.copyright-2018 {
+  top: 25px;
+  left: 850px;
+  opacity: 0.5;
+}
+.about-us1,
+.contact-us2 {
+  position: relative;
+  text-transform: uppercase;
+}
+.contact-us2 {
+  cursor: pointer;
+}
+.about-us-parent,
+.secondary-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.about-us-parent {
+  gap: var(--gap-22xl);
+}
+.secondary-footer {
+  position: absolute;
+  top: 25px;
+  left: 0;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-inter);
+}
+.rectangle-parent {
+  position: absolute;
+  height: 2.69%;
+  width: 75.14%;
+  top: 92.75%;
+  right: 6.53%;
+  bottom: 4.56%;
+  left: 18.33%;
+  color: var(--dark);
+  font-family: var(--font-assistant);
+}
+.contact-us {
+  position: relative;
+  background-color: var(--vrgear-light-color-background);
+  width: 100%;
+  height: 1601px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--black);
+  font-family: var(--font-inter);
+}
